@@ -4,10 +4,10 @@ const Hero = () => {
   return (
       <>
       <div>
-        <header className="bg-dark" id="header" style={{background: 'url("src/assets/img/4k_mkbhd_icons_template_@jus_georgex.png")', backgroundSize: 'cover', boxShadow: '0px 0px 20px var(--bs-black)'}}>
+        <header className="bg-dark" id="header" style={{background: 'url("./img/4k_mkbhd_icons_template_@jus_georgex.png")', backgroundSize: 'cover', boxShadow: '0px 0px 20px var(--bs-black)'}}>
           <div className="container">
             <div className="row d-xl-flex justify-content-center justify-content-xl-center" style={{boxShadow: '0px 0px'}}>
-              <div className="col-md-5 col-lg-4 col-xl-3 text-center swing animated" style={{width: '300px'}}><img data-bss-disabled-mobile="true" data-bss-hover-animate="swing" src="src/assets/img/RafTag.png" width={226} height={436} style={{borderStyle: 'none'}} /></div>
+              <div className="col-md-5 col-lg-4 col-xl-3 text-center swing animated" style={{width: '300px'}}><img data-bss-disabled-mobile="true" data-bss-hover-animate="swing" src="./img/RafTag.png" width={226} height={436} style={{borderStyle: 'none'}} /></div>
               <div className="col-md-5 col-lg-7 col-xl-7 col-xxl-7" style={{paddingTop: '48px', paddingRight: '30px', paddingLeft: '30px'}}>
                 <div className="text-center d-flex justify-content-center align-items-center" style={{padding: '20px'}}>
                   <h1 className="d-flex d-lg-flex justify-content-end justify-content-sm-center"><span className="text-md-end text-lg-end text-xl-end text-xxl-end" style={{color: 'rgb(25, 245, 170)', textShadow: '0px 0px 20px var(--bs-success)'}}><strong>Hi, I'm Raf! The Web Dev.</strong></span></h1>
