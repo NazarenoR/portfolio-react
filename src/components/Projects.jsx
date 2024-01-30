@@ -3,7 +3,7 @@ import React from 'react'
 const Projects = () => {
   return (
     <section id="projectsTag">
-        <div className="row" style={{boxShadow: '0px 0px 20px var(--bs-black)', background: 'url("src/assets/img/4k_mkbhd_icons_template_@jus_georgex.png") center / cover, #27262e', paddingBottom: '12px', margin: '0px'}}>
+        <div className="row" style={{boxShadow: '0px 0px 20px var(--bs-black)', background: 'url("./img/4k_mkbhd_icons_template_@jus_georgex.png") center / cover, #27262e', paddingBottom: '12px', margin: '0px'}}>
           <div className="col-md-8 col-xl-6 text-center mx-auto" style={{height: '75px'}}>
             <h1 className="fw-bold"><span style={{color: 'rgb(25, 245, 170)'}}>My Work</span></h1>
             <p><strong>A snippet of what I've been working on recently.</strong></p>

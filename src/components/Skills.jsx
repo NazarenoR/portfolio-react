@@ -101,7 +101,7 @@ const Skills = () => {
               </a></div>
             <div className="col-6 col-sm-3 col-md-3 col-lg-3 d-flex flex-column justify-content-center align-items-center flex-wrap justify-content-lg-center align-items-lg-center col-xl3" data-aos="flip-left" data-aos-delay={100} data-aos-once="true"><a href="https://webdeveloper.com/@rafael/" target="_blank">
                 <div className="d-flex align-items-center p-3">
-                  <div className="text-center d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center" data-bss-hover-animate="pulse" style={{color: '#19f5aa', background: '#283770', height: '60px', width: '60px', borderColor: 'var(--bs-white)', boxShadow: '0px 0px 20px var(--bs-blue)', borderRadius: '69px', marginRight: '15px'}}><img src="src/assets/img/wd_logo_neon.png" style={{width: '32px', height: '32px'}} /></div>
+                  <div className="text-center d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center" data-bss-hover-animate="pulse" style={{color: '#19f5aa', background: '#283770', height: '60px', width: '60px', borderColor: 'var(--bs-white)', boxShadow: '0px 0px 20px var(--bs-blue)', borderRadius: '69px', marginRight: '15px'}}><img src="./img/wd_logo_neon.png" style={{width: '32px', height: '32px'}} /></div>
                 </div>
               </a></div>
           </div>
